@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Chaparritoland",
+        "color1": "#5B7CFF",
+        "color2": "#9B5BFF",
+        "size": 40,
+        "moons": 2,
+        "rings": true,
+        "message": "Mundo de donde son originarios los Chaparritos"
+    },
+    {
+        "name": "Chaparritoland",
+        "color1": "#5B7CFF",
+        "color2": "#9B5BFF",
+        "size": 40,
+        "moons": 2,
+        "rings": true,
+        "message": "Mundo de donde son originarios los Chaparritos"
+    },
+    {
+        "name": "Test",
+        "color1": "#FF0000",
+        "color2": "#00FF00",
+        "size": 30,
+        "moons": 1,
+        "rings": true,
+        "message": "desde frontend"
+    },
+    {
+        "name": "Test",
+        "color1": "#FF0000",
+        "color2": "#00FF00",
+        "size": 30,
+        "moons": 1,
+        "rings": true,
+        "message": "desde frontend"
+    },
+    {
+        "name": "Test",
+        "color1": "#FF0000",
+        "color2": "#00FF00",
+        "size": 30,
+        "moons": 1,
+        "rings": true,
+        "message": "desde frontend"
+    },
+    {
+        "name": "Test",
+        "color1": "#FF0000",
+        "color2": "#00FF00",
+        "size": 30,
+        "moons": 1,
+        "rings": true,
+        "message": "desde frontend"
+    },
+    {
+        "name": "Test",
+        "color1": "#FF0000",
+        "color2": "#00FF00",
+        "size": 30,
+        "moons": 1,
+        "rings": true,
+        "message": "desde frontend"
+    }
+]
