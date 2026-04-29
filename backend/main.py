@@ -7,7 +7,7 @@ from backend.database import obtener_planetas, guardar_nuevo_planeta
 # crear la app
 app = FastAPI()
 
-# 2️⃣ LUEGO agregas middleware
+# agrega middleware
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
